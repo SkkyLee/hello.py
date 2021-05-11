@@ -1,3 +1,1 @@
-#01_Hello_World
-print ("Hello World :)")
-print ("In portuguese: Olá Mundo!")
+print("Hello, World!")
